@@ -18,7 +18,7 @@ p {
 }
 
 /* Are there different types of alerts? Can some be styled and some pop from top web-tab? */
-/*.list_alert {
+.list_alert {
   padding: 20px;
   background-color: palegreen;
   color: darkolivegreen;
