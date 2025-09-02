@@ -1,1 +1,1 @@
-# 2_05_00_Monday_Review_before_Arrays
+# See index.html and styles.css files for content
