@@ -1,0 +1,27 @@
+/*Stylesheet for HTML file*/
+
+body {
+    font-style: Lucida Console; 
+    background-color: blanchedalmond;
+    color: midnightblue;
+}
+
+h1 {
+    font: Arial, sans-serif;
+    color: darkgreen;
+}
+
+p {
+    font-style: Lucida Console;
+    color: midnightblue;
+}
+
+/* Are there different types of alerts? Can some be styled and some pop from top web-tab? */
+.list_alert {
+  padding: 20px;
+  background-color: palegreen
+  color: darkolivegreen;
+  margin-bottom: 15px;
+}
+
+
