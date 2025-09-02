@@ -2,8 +2,8 @@
 
 body {
     font-style: Lucida Console; 
-    background-color: blanchedalmond;
     color: midnightblue;
+    background-color: blanchedalmond;
 }
 
 h1 {
@@ -14,6 +14,7 @@ h1 {
 p {
     font-style: Lucida Console;
     color: midnightblue;
+    background-color: blanchedalmond;
 }
 
 /* Are there different types of alerts? Can some be styled and some pop from top web-tab? */
